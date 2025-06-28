@@ -1,4 +1,4 @@
 # 🚀 Daniil Razzhivin – Penetration Tester
 All CTF writeups from HackTheBox, TryHackMe
 
-![TryHackMe](https://tryhackme.com/p/z3r0day)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111827?style=flat&logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/123456)
