@@ -1,4 +1,3 @@
-# CTF-Writeups
 # 🚀 Daniil Razzhivin – Penetration Tester
 All CTF writeups from HackTheBox, TryHackMe
 
